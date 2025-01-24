@@ -1,0 +1,2 @@
+# RenpyAiNieeBridge
+renpy调用AiNiee翻译的一个中转小工具
